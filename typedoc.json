@@ -1,6 +1,0 @@
-{
-    "entryPoints": ["src/backend/**/*.ts"],
-    "out": "docs",
-    "name": "QuizCraft",
-    "exclude": ["**/node_modules/**/*", "**/dist/**/*"],
-}

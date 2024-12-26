@@ -6,8 +6,8 @@ QuizCraft est une application de quiz en ligne. Ce document fournit toutes les i
 
 1. Clonez le dépôt :
     ```sh
-    git clone https://github.com/votre-utilisateur/quizcraft.git
-    cd quizcraft
+    git clone https://github.com/T0ine34/QuizCraft    
+    cd QuizCraft
     ```
 
 2. Installez les dépendances :
@@ -16,7 +16,7 @@ QuizCraft est une application de quiz en ligne. Ce document fournit toutes les i
     ```
 
 3. Configurez les variables d'environnement :
-    Créez un fichier [.env](http://_vscodecontentref_/0) à la racine du projet et ajoutez-y les variables suivantes :
+    Créez un fichier `.env` à la racine du projet et ajoutez-y les variables suivantes :
     ```env
     JWT_SECRET="votre_secret_jwt"
     ```
@@ -28,12 +28,7 @@ QuizCraft est une application de quiz en ligne. Ce document fournit toutes les i
     npm run build
     ```
 
-2. Copiez les fichiers frontend :
-    ```sh
-    npm run copy
-    ```
-
-3. Démarrez le serveur :
+2. Démarrez le serveur :
     ```sh
     npm start
     ```
@@ -42,7 +37,7 @@ QuizCraft est une application de quiz en ligne. Ce document fournit toutes les i
 
 ### Endpoints
 
-La documentation des endpoints est disponible dans le fichier OpenAPI. Voici un aperçu des principaux endpoints :
+La documentation des endpoints est disponible dans la documentation
 
 #### Authentification
 

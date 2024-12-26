@@ -1,7 +1,6 @@
 /node_modules
 /quizcraft.db
 /test.http
-/docs
 /.env
 /dist
 
