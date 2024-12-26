@@ -37,7 +37,7 @@ QuizCraft est une application de quiz en ligne. Ce document fournit toutes les i
 
 ### Endpoints
 
-La documentation des endpoints est disponible dans la documentation
+La documentation des endpoints est disponible dans la [documentation](https://t0ine34.github.io/QuizCraft/) du projet. Voici un aperçu des endpoints disponibles :
 
 #### Authentification
 
@@ -121,6 +121,8 @@ Pour plus de détails sur les endpoints, veuillez consulter le fichier OpenAPI i
 
 ## Documentation
 
-La documentation complète du projet est générée avec Typedoc et est disponible dans le dossier [docs](http://_vscodecontentref_/1). Pour générer la documentation, exécutez la commande suivante :
+La documentation complète du projet est générée avec Typedoc et est disponible dans le dossier `docs` ou [ici](https://t0ine34.github.io/QuizCraft/).
+
+Pour générer la documentation, exécutez la commande suivante :
 ```sh
 npm run doc
